@@ -1,0 +1,13 @@
+D:\c#\LAB_10_B\bin\Debug\LAB_10_B.exe.config
+D:\c#\LAB_10_B\bin\Debug\LAB_10_B.exe
+D:\c#\LAB_10_B\bin\Debug\LAB_10_B.pdb
+D:\c#\LAB_10_B\bin\Debug\Guna.UI.dll
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.csproj.AssemblyReference.cache
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.csproj.SuggestedBindingRedirects.cache
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.Form1.resources
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.Properties.Resources.resources
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.csproj.GenerateResource.cache
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.csproj.CoreCompileInputs.cache
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.csproj.CopyComplete
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.exe
+D:\c#\LAB_10_B\obj\Debug\LAB_10_B.pdb
