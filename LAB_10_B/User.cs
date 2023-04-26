@@ -10,7 +10,7 @@ namespace LAB_10_B
     {
         public int id { get; set; }//private int id;
                                    //public void get()
-                                   //{ return id;}
+                                   //Hello 
         public string name { get; set; }
         public string address { get; set; }
         public int fine { get; set; } = 0;
