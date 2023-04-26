@@ -78,6 +78,8 @@
             this.label21 = new System.Windows.Forms.Label();
             this.return_u_id_textBox = new System.Windows.Forms.TextBox();
             this.label22 = new System.Windows.Forms.Label();
+            this.gunaGradientTileButton2 = new Guna.UI.WinForms.GunaGradientTileButton();
+            this.gunaGradientTileButton3 = new Guna.UI.WinForms.GunaGradientTileButton();
             this.SuspendLayout();
             // 
             // gunaControlBox1
@@ -696,9 +698,61 @@
             this.label22.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(22, 666);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(116, 35);
+            this.label22.Size = new System.Drawing.Size(93, 28);
             this.label22.TabIndex = 84;
             this.label22.Text = "USER ID:";
+            // 
+            // gunaGradientTileButton2
+            // 
+            this.gunaGradientTileButton2.Animated = true;
+            this.gunaGradientTileButton2.AnimationHoverSpeed = 0.07F;
+            this.gunaGradientTileButton2.AnimationSpeed = 0.03F;
+            this.gunaGradientTileButton2.BaseColor1 = System.Drawing.Color.MidnightBlue;
+            this.gunaGradientTileButton2.BaseColor2 = System.Drawing.Color.SkyBlue;
+            this.gunaGradientTileButton2.BorderColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton2.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaGradientTileButton2.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaGradientTileButton2.Font = new System.Drawing.Font("Segoe UI Semibold", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaGradientTileButton2.ForeColor = System.Drawing.Color.White;
+            this.gunaGradientTileButton2.Image = null;
+            this.gunaGradientTileButton2.ImageSize = new System.Drawing.Size(52, 52);
+            this.gunaGradientTileButton2.Location = new System.Drawing.Point(640, 594);
+            this.gunaGradientTileButton2.Name = "gunaGradientTileButton2";
+            this.gunaGradientTileButton2.OnHoverBaseColor1 = System.Drawing.Color.SkyBlue;
+            this.gunaGradientTileButton2.OnHoverBaseColor2 = System.Drawing.Color.MidnightBlue;
+            this.gunaGradientTileButton2.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton2.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaGradientTileButton2.OnHoverImage = null;
+            this.gunaGradientTileButton2.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton2.Size = new System.Drawing.Size(214, 47);
+            this.gunaGradientTileButton2.TabIndex = 86;
+            this.gunaGradientTileButton2.Text = "ADD BOOK";
+            // 
+            // gunaGradientTileButton3
+            // 
+            this.gunaGradientTileButton3.Animated = true;
+            this.gunaGradientTileButton3.AnimationHoverSpeed = 0.07F;
+            this.gunaGradientTileButton3.AnimationSpeed = 0.03F;
+            this.gunaGradientTileButton3.BaseColor1 = System.Drawing.Color.MidnightBlue;
+            this.gunaGradientTileButton3.BaseColor2 = System.Drawing.Color.SkyBlue;
+            this.gunaGradientTileButton3.BorderColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton3.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.gunaGradientTileButton3.FocusedColor = System.Drawing.Color.Empty;
+            this.gunaGradientTileButton3.Font = new System.Drawing.Font("Segoe UI Semibold", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.gunaGradientTileButton3.ForeColor = System.Drawing.Color.White;
+            this.gunaGradientTileButton3.Image = null;
+            this.gunaGradientTileButton3.ImageSize = new System.Drawing.Size(52, 52);
+            this.gunaGradientTileButton3.Location = new System.Drawing.Point(640, 647);
+            this.gunaGradientTileButton3.Name = "gunaGradientTileButton3";
+            this.gunaGradientTileButton3.OnHoverBaseColor1 = System.Drawing.Color.SkyBlue;
+            this.gunaGradientTileButton3.OnHoverBaseColor2 = System.Drawing.Color.MidnightBlue;
+            this.gunaGradientTileButton3.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton3.OnHoverForeColor = System.Drawing.Color.White;
+            this.gunaGradientTileButton3.OnHoverImage = null;
+            this.gunaGradientTileButton3.OnPressedColor = System.Drawing.Color.Black;
+            this.gunaGradientTileButton3.Size = new System.Drawing.Size(214, 47);
+            this.gunaGradientTileButton3.TabIndex = 87;
+            this.gunaGradientTileButton3.Text = "ADD BOOK";
             // 
             // Form1
             // 
@@ -706,6 +760,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(1657, 914);
+            this.Controls.Add(this.gunaGradientTileButton3);
+            this.Controls.Add(this.gunaGradientTileButton2);
             this.Controls.Add(this.return_u_id_textBox);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.label21);
@@ -821,6 +877,8 @@
         private System.Windows.Forms.Label label21;
         private System.Windows.Forms.TextBox return_u_id_textBox;
         private System.Windows.Forms.Label label22;
+        private Guna.UI.WinForms.GunaGradientTileButton gunaGradientTileButton2;
+        private Guna.UI.WinForms.GunaGradientTileButton gunaGradientTileButton3;
     }
 }
 
